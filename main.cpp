@@ -53,59 +53,59 @@ Thing: Car Wash
  */
 
 /*
-Thing 1)
+Thing 1) Country
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) size of population
+    2) land area in square miles
+    3) dollar amount of GDP 
+    4) size of military (in people)
+    5) number of nuclear warheads
 3 things it can do:
-    1)
-    2)
-    3)
+    1) declare war
+    2) hold elections
+    3) export products
  */
 
 /*
-Thing 2)
+Thing 2) Blockbuster
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of DVDs
+    2) number of Videogames
+    3) number of employees
+    4) number of microwave popcorn packets 
+    5) number of types of candy
 3 things it can do:
-    1)
-    2)
-    3)
+    1) rent out movies/games
+    2) accept returns
+    3) sign up a new customer
  */
 
 /*
-Thing 3)
+Thing 3) grocery store
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of registered upc
+    2) monthly profit
+    3) amount of cash in store
+    4) current inventory of cans of black beans
+    5) number of transactions per day
 3 things it can do:
-    1)
-    2)
-    3)
+    1) order more produce
+    2) declare that something's on sale
+    3) hire more employees
  */
 
 /*
-Thing 4)
+Thing 4) zoo
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of penguins
+    2) number of annual passholders
+    3) revenue of concession sales
+    4) number of peacocks
+    5) number of gorillas
 3 things it can do:
-    1)
-    2)
-    3)
+    1) feed tigers
+    2) close reptile house
+    3) open petting area
  */
 
 
