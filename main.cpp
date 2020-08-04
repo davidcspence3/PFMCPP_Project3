@@ -113,17 +113,17 @@ Thing 4) zoo
  */
 
 /*
-Thing 10)
-5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+Thing 10) Mech
+5 properties:  
+    1) Human pilot
+    2) Primary firearm
+    3) Ammuntion capacity
+    4) Ammuniton remaining
+    5) Sword
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Fire primary weapon
+    2) Eject pilot
+    3) Unsheath/sheath Sword
  */
 
 /*
