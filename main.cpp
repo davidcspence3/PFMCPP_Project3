@@ -113,17 +113,17 @@ Thing 4) zoo
  */
 
 /*
-Thing 10) Mech
+Thing 10) Submarine
 5 properties:  
-    1) Human pilot
-    2) Primary firearm
-    3) Ammuntion capacity
-    4) Ammuniton remaining
-    5) Sword
+    1) crew
+    2) weapon system
+    3) propulsion system
+    4) power system
+    5) radar system
 3 things it can do:
-    1) Fire primary weapon
-    2) Eject pilot
-    3) Unsheath/sheath Sword
+    1) submerge
+    2) fire torpedo
+    3) go into silent mode
  */
 
 /*
