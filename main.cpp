@@ -124,73 +124,73 @@ Thing 4) zoo
  */
 
 /*
-Thing 5)
+Thing 5) crew
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of medical dept
+    2) number of navigation dept
+    3) number of weapons dept
+    4) number of engine/maintence dept
+    5) number of communications dept
 3 things it can do:
-    1)
-    2)
-    3)
+    1) reassign dept members
+    2) evacuate ship
+    3) take roll call
  */
 
 /*
-Thing 6)
+Thing 6) weapon system
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) Total number of torpedos
+    2) number of Tomahawk class torpedoes
+    3) number of Harpoon class torpedoes
+    4) number of launch tubes
+    5) number of mines
 3 things it can do:
-    1)
-    2)
-    3)
+    1) launch Tomahawk missile
+    2) launch Harpoon missile
+    3) deploy mine
  */
 
 /*
-Thing 7)
+Thing 7) propulsion system
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) top speed
+    2) width of propeller
+    3) maximum angle of descent
+    4) maximum angle of ascent
+    5) decibels of current speed
 3 things it can do:
-    1)
-    2)
-    3)
+    1) rise to periscope depth
+    2) emergency submerge
+    3) full speed ahead
  */
 
 /*
-Thing 8)
+Thing 8) power system
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of backup batteries
+    2) current reactor temperature
+    3) current megawatts produced
+    4) water pressure in kPa
+    5) maximum megawatts possible
 3 things it can do:
-    1)
-    2)
-    3)
+    1) shutdown reactor
+    2) release water pressure
+    3) discharge battery bank
  */
 
 /*
-Thing 9)
+Thing 9) sonar system
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) range in km
+    2) ping per minute
+    3) output power
+    4) direction of beamforming (angle)
+    5) width of beam formed
 3 things it can do:
-    1)
-    2)
-    3)
+    1) sweep beam
+    2) deploy array
+    3) ping
  */
 
 /*
